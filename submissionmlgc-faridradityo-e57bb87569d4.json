@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-faridradityo",
+  "private_key_id": "e57bb87569d407d0848410e171c931000f195502",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCOIzl8dGKiKWJB\n5k2rjJ5fnuDsCUyFu7BrMVrPHnQi57d7jawcH54Lc1+h0VZWHm7zIPjDYU7d1Obo\nzSWnCfPVBaCsYX7vSy9PLebvZZDYlmk3uuTNCDhKPE2pUK2c4MfjJZcfr5cgQpN8\nA2MJHNtVDwBabfq7p9iWYkwjHvL5meldDth04y4UjBn14t0ZhF/kzLQ6nYDmGR9q\n4zb/dH+H3oxAI0dog6vfae5bjB8V7g+1TImG0+8gyFMHpa7MzaxBpUIdRv99Hw9R\n2R7RWvKrXdPPqE2O5GL8TNAcenug3SoYnD/hT9YsS78nxFDAx7IiInyq1UMZ3O/H\nTxbIgwfVAgMBAAECggEAGmi7j97tC52+Uqm4kTD/pRsXRevlYqywlv4U1gpdwDWG\n/ycfzRrnyc9eO6nyTW56pWRhLCYqmedqnuMtBYgBHLmetKCpzcrNp7vK3nyjyMZL\nlu38AIdwNATX1id2FoGiShdMKLg+j2EnV4Gml0UcEIYIxgSMs2y4fpqVdGoV8Z+r\nEMoM2x4lP1bdLDXwo9xI7R3XuXOlQK2JxCvPNk27Tj/cbfAO2hR3+ZvjMu4gga5l\nAQjdoQAoMBdGyFcjGFrtmTxlqfCGv2DeYcSfkam9oGcBtyX4K+lDz9V/DiBIzDMT\npaRi8hYjrNKUWqoHf0hVgyiMAbjUwqweb5476x4beQKBgQDFuqBf2xXJ3NA+x6/z\n/qY/VH1V0z2nSUz8y56ouMzD6AeWYgdIhhbwvEt4BYO7GRBLpkAblnGJ4/lUT9jr\njv+BVerXN7J5Bk+OwDxDjxWNhceOQ/etClfOg29Xj+J90HcrvvSX8UZAqxZNrvnx\nBEroYIEIL7BC8uf85EVKU/fCnQKBgQC4BpX7ZrsDrWVNLKwayxhN3y4Qux1Lme6c\nJ9SqPC/FAFcQfOFhfOOxOmfVagkDGVRDCxKTT7cnWAj0ZJRPaWMNktW+xNeiVpbe\nlsuBlOXqTskL7qpe+p6SUKwBKI+q7babVwKucJW7mbTdL88uA5Uh8LjzY9k0kxrq\nTeHbsKUYmQKBgBauqAMXANLdT85D3f1hcvTE3nPf/ayZDgnZ2eOE/4hhr60ipa8+\nIpePIiEskMX/xAzJj4Uapv+odUuktT+gcdMGZiA2NXUIskuv5bniShioBhJd3aWu\nEBCSp00mJldEeMc96pUbinGUrsROlEF/upAZsfOcdN3ZO5+ZGBHEvCFJAoGAGdBK\nr5Yse4qSIC45AhUlFp9MzeoBZP51uw/XQ/3nUYIHtHdgAhXLtquTrxsNopKmADWI\naIORFILD1sxZBX6p91h2hSkFem8dAKI0b7vcOG7Ows66tVIAdlO8nPj8liR8LfQZ\nmzCNwGACP9iZ/kFgZP9oYjPKXxaXevBr0y5HKlkCgYEAq7iqkEIb5yEuiZot6QTm\nc28X74+VfAAf+3YzvHFBz5h32TgjiBXmCu7azO+IcFX16fN5poXdi8R2Jv4Fx1g+\nRUtK4KysximlsIziEImuLeOpX7NEp0SC+5CxE7FASrM6oq4Rb8D41MP22SdHwgiJ\nnE2jF64NUDymjcj9yKeBjaQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bambang@submissionmlgc-faridradityo.iam.gserviceaccount.com",
+  "client_id": "101388411729692314090",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bambang%40submissionmlgc-faridradityo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

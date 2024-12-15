@@ -1,0 +1,6 @@
+express
+multer
+@tensorflow/tfjs-node
+uuid
+dotenv
+@google-cloud/firestore
